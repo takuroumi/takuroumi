@@ -1,6 +1,7 @@
 - Takuro Umihara
-- 2018/03 BS (Electrical and Computer Engineering), Yokohama National University.
-- Engineer domained Electric Power System
+- 2019/03 BS (Electrical and Computer Engineering), Yokohama National University.
+- Former project engineer at ABB in Japan, currently CS/BizDev at Nature Inc, the IoT and Energy startup in Japan.
+- Engineer who expertises Japanese electric power system.
 - C/C++/Javascript/Golang/Python
 
 <!---
