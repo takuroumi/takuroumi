@@ -1,7 +1,7 @@
 - Takuro Umihara
 - 2019/03 BS (Electrical and Computer Engineering), Yokohama National University.
-- Former project engineer at ABB in Japan, currently CS/BizDev at Nature Inc, the IoT and Energy startup in Japan.
-- Engineer who expertises Japanese electric power system.
+- Former project engineer at ABB in Japan, currently BizDev at [Nature Inc](https://nature.global/careers/).
+- Engineer who expertises Japanese electric power system and distributed energy resource control (e.g. Demand Response).
 - C/C++/Javascript/Golang/Python
 
 <!---
